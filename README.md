@@ -1,5 +1,5 @@
 # Ivanhoe
-This is a team project that was done in the "Software Engineering" course back in university in 2016.
+This is a team project that was done in the "Object-Oriented Software Engineering" university course in 2016.
 
 The task is to create a game called Ivanhoe in Java, with networking, game logic and GUI.
 
